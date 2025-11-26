@@ -61,3 +61,8 @@ Which was very smart of google
 
 We can point antigravity at [OpenCode](opencode.ai) have it steal freely from the agentic Design
 
+[[Claude reflects on TinyTools]]
+
+#Mark: "build a tool to do X, then improve that tool based on using it"
+Holy shit I think it wants in
+Ok so the basic ‘cell’ MVP has enough nous to be able to do *exactly that* and from that all else follows
